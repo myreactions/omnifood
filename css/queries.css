@@ -252,6 +252,10 @@
   .step-img-box {
     transform: translateY(2.4rem);
   }
+  
+  .section-testimonials {
+    scroll-margin-top: initial;
+  }
 
   .testimonials {
     grid-template-columns: 1fr;
